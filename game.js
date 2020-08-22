@@ -1,7 +1,7 @@
 import Paddle from './paddle.js'
 import InputHandler from './input.js'
 import Ball from './ball.js'
-import Brick from '/brick.js'
+import Brick from '/.brick.js'
 import {buildLevel, level1, level2, level3, level4, level5} from './level.js'
 import { detectCollision } from './collisionDetection.js'
 
