@@ -9,4 +9,4 @@ A simple and classic game created with JavaScript.
 
 # Play the Game!
 
-⚡[Click Me](https://wayne9598.github.io/path-finding-visualiser/)
+⚡[Click Me](https://wayne9598.github.io/Break-the-bricks-game/)
