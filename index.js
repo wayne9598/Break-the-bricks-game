@@ -1,7 +1,7 @@
 // import Paddle from '/paddle.js'
 // import InputHandler from '/input.js'
 // import Ball from '/ball.js'
-import Game from '/game.js'
+import Game from 'game.js'
 
 let canvas = document.getElementById('gameScreen');
 let context = canvas.getContext('2d');
